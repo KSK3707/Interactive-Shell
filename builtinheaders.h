@@ -1,0 +1,8 @@
+#include "echo.h"
+#include "pwd.h"
+#include "cd.h"
+#include "exit.h"
+#include "ls.h"
+#include "pinfo.h"
+#include "history.h"
+#include "setenv.h"
